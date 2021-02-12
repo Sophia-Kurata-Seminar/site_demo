@@ -8,16 +8,15 @@ nav_order: 5
 {: .no_toc }
 
 
-教員紹介をしていきます。
+オンライン教材紹介をしていきます。
 {: .fs-6 .fw-300 }
 
 ---
 
-## 一覧
 
 
 
-### 倉田先生
+## 倉田先生
 
 ・GIS分析入門  
 [https://sophia-kurata-seminar.github.io/GISanalysis/](https://sophia-kurata-seminar.github.io/GISanalysis/)

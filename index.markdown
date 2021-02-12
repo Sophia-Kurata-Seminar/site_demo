@@ -12,10 +12,26 @@ permalink: /
 上智大学経済学部経済学科の倉田准教授のゼミです。
 {: .fs-6 .fw-300 }
 
-[下のヘッダーに移動](#ゼミの概要){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHubリポジトリ](https://pmarsceill.github.io/just-the-docs/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[#jekyll~~ni
+移動](#ゼミの概要){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHubリポジトリ](https://github.com/Sophia-Kurata-Seminar/site_demo){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
 ## ゼミの概要
 倉田ゼミは、開発経済学と計量経済学のゼミです。  
 Rを使います。
+
+## 人数
+人学年10人前後
+
+## 使ったソフト
++ QGIS
++ R / Rstudio
++ Exploratory
+
+## あいうえお
+かきくけこ
+
+## jekyllで作りました。
+なれると便利です。
+
