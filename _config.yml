@@ -62,3 +62,7 @@ aux_links:
     - "https://rscdb.cc.sophia.ac.jp/Profiles/14/0001319/profile.html"
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
+
+
+#作業用
+exclude: ["README.txt"]

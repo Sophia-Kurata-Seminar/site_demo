@@ -1,7 +1,7 @@
 {"0": {
     "doc": "ゼミの概要",
     "title": "ゼミの概要",
-    "content": "# 上智大学 経済学部経済学科　倉田ゼミ {: .fs-9 } 上智大学経済学部経済学科の倉田准教授のゼミです。 {: .fs-6 .fw-300 } [下のヘッダーに移動](#ゼミの概要){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHubリポジトリ](https://pmarsceill.github.io/just-the-docs/){: .btn .fs-5 .mb-4 .mb-md-0 } --- ## ゼミの概要 倉田ゼミは、開発経済学と計量経済学のゼミです。 Rを使います。 ",
+    "content": "# 上智大学 経済学部経済学科 倉田ゼミ {: .fs-9 } 上智大学経済学部経済学科の倉田准教授のゼミです。 {: .fs-6 .fw-300 } [下のヘッダーに移動](#ゼミの概要){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHubリポジトリ](https://pmarsceill.github.io/just-the-docs/){: .btn .fs-5 .mb-4 .mb-md-0 } --- ## ゼミの概要 倉田ゼミは、開発経済学と計量経済学のゼミです。 Rを使います。 ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/",
     "relUrl": "/"
   },"1": {
@@ -37,13 +37,13 @@
   },"6": {
     "doc": "オンライン教材",
     "title": "オンライン教材",
-    "content": "# 教材紹介 {: .no_toc } 教員紹介をしていきます。 {: .fs-6 .fw-300 } --- ## 一覧 ### 倉田先生 ・GIS分析入門 [https://sophia-kurata-seminar.github.io/GISanalysis/](https://sophia-kurata-seminar.github.io/GISanalysis/) ## 松本 ・衛星データ学習サイトBASIC [https://tamak1313.github.io/cosmobook/](https://tamak1313.github.io/cosmobook/) ・GEE学習サイト [https://tamak1313.github.io/GEEflood/](https://tamak1313.github.io/GEEflood/) 蔵田 ・bookdownとGitでWebサイト制作 [https://sh-2.github.io/Rstudio_bookdown/](https://sh-2.github.io/Rstudio_bookdown/) ・RでGIS分析 [https://sh-2.github.io/R_GIS/](https://sh-2.github.io/R_GIS/) ",
+    "content": "# 教材紹介 {: .no_toc } 教員紹介をしていきます。 {: .fs-6 .fw-300 } --- ## 一覧 ### 倉田先生 ・GIS分析入門 [https://sophia-kurata-seminar.github.io/GISanalysis/](https://sophia-kurata-seminar.github.io/GISanalysis/) ## 松本 ・衛星データ学習サイトBASIC [https://tamak1313.github.io/cosmobook/](https://tamak1313.github.io/cosmobook/) ・GEE学習サイト [https://tamak1313.github.io/GEEflood/](https://tamak1313.github.io/GEEflood/) ## 蔵田 ・bookdownとGitでWebサイト制作 [https://sh-2.github.io/Rstudio_bookdown/](https://sh-2.github.io/Rstudio_bookdown/) ・RでGIS分析 [https://sh-2.github.io/R_GIS/](https://sh-2.github.io/R_GIS/) ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/online_text.html",
     "relUrl": "/pages/online_text.html"
   },"7": {
     "doc": "教材紹介",
     "title": "教材紹介",
-    "content": "# 使用教材 {: .no_toc } 使用教材の紹介をしていきます。 {: .fs-6 .fw-300 } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## 統計 **サルでもわかる回帰分析** ## R **湘南台で学ぶRstudio** ## 論文の書き方 **論文の書き方** ",
+    "content": "# 使用教材 {: .no_toc } 使用教材の紹介をしていきます。 {: .fs-6 .fw-300 } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## 統計 **サルでもわかる回帰分析** ## R **湘南台で学ぶRstudio** ## 論文の書き方 **論文のエッセンス** ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/text.html",
     "relUrl": "/pages/text.html"
   }

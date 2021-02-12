@@ -32,7 +32,7 @@ nav_order: 5
 
 
 
-蔵田
+## 蔵田
 ・bookdownとGitでWebサイト制作  
 [https://sh-2.github.io/Rstudio_bookdown/](https://sh-2.github.io/Rstudio_bookdown/)  
 
