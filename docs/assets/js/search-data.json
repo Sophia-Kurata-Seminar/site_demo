@@ -41,12 +41,6 @@
     "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/online_text.html",
     "relUrl": "/pages/online_text.html"
   },"7": {
-    "doc": "活動紹介",
-    "title": "活動紹介",
-    "content": "# ゼミ合宿 {: .no_toc } カンボジアに行きました。 使用教材の紹介をしていきます。 {: .fs-6 .fw-300 } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## 統計 **サルでもわかる回帰分析** ## R **湘南台で学ぶRstudio** ## 論文の書き方 **論文のエッセンス** ",
-    "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/second.html",
-    "relUrl": "/pages/second.html"
-  },"8": {
     "doc": "教材紹介",
     "title": "教材紹介",
     "content": "# 使用教材 {: .no_toc } 使用教材の紹介をしていきます。 {: .fs-6 .fw-300 } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## 統計 **サルでもわかる回帰分析** ## R **湘南台で学ぶRstudio** ## 論文の書き方 **論文のエッセンス** ",
