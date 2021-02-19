@@ -28,6 +28,9 @@ nav_order: 5
 ・GEE学習サイト  
 [https://tamak1313.github.io/GEEflood/](https://tamak1313.github.io/GEEflood/)
 
+・Jekyllマニュアル
+<https://github.com/Sophia-Kurata-Seminar/jekyll>
+
 
 
 

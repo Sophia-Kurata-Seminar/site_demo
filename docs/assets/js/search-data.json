@@ -13,7 +13,7 @@
   },"2": {
     "doc": "教員紹介",
     "title": "教員紹介",
-    "content": "# 教員紹介 {: .no_toc } 教員紹介をしていきます。 {: .fs-6 .fw-300 } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## 経歴 + ○○大学卒 + ××博士課程 ## 研究テーマ バングラディシュ ## 論文 + ○○の研究 + ××の関連 + △△の効果 ",
+    "content": "# 教員紹介 {: .no_toc } 教員紹介をしていきます。 {: .fs-6 .fw-300 } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## 経歴 + ○▼大学卒 + ××博士課程 ## 研究テーマ バングラディシュ ## 論文 + ○○の研究 + ××の関連 + △△の効果 ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/introduction.html",
     "relUrl": "/pages/introduction.html"
   },"3": {
@@ -25,25 +25,25 @@
   },"4": {
     "doc": "2020年度ゼミ生",
     "title": "2020年度ゼミ生",
-    "content": "# ゼミ生紹介 {: .no_toc } ## 目次 {: .no_toc .text-delta } 1. TOC {:toc} --- ## 3年生 + 赤木 + 青柳 + 植田 ## 4年生 + 松本 + 蔵田 ",
+    "content": "# ゼミ生紹介 {: .no_toc } ## 目次 {: .no_toc .text-delta } 1. TOC {:toc} --- ## 3年生 ## 4年生 全9人(男3人、女6人) ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/members/members2020.html",
     "relUrl": "/pages/members/members2020.html"
   },"5": {
     "doc": "2021年度ゼミ生",
     "title": "2021年度ゼミ生",
-    "content": "# ゼミ生紹介 {: .no_toc } ## 目次 {: .no_toc .text-delta } 1. TOC {:toc} --- ## 3年生 + メッシ + クリスティアーノ・ロナウド + レヴァンドフスキ + 植田 ## 4年生 + 赤木 + 青柳 ",
+    "content": "# ゼミ生紹介 {: .no_toc } ## 目次 {: .no_toc .text-delta } 1. TOC {:toc} --- ## 3年生 + メッシ + クリスティアーノ・ロナウド + レヴァンドフスキ ## 4年生 ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/members/members2021.html",
     "relUrl": "/pages/members/members2021.html"
   },"6": {
     "doc": "2022年度ゼミ生",
     "title": "2022年度ゼミ生",
-    "content": "# ゼミ生紹介 {: .no_toc } ## 目次 {: .no_toc .text-delta } 1. TOC {:toc} --- ## 3年生 + 劉備 + 張飛 + 関羽 + 諸葛 ## 4年生 + メッシ + クリスティアーノ・ロナウド + レヴァンドフスキ + 植田 ",
+    "content": "# ゼミ生紹介 {: .no_toc } ## 目次 {: .no_toc .text-delta } 1. TOC {:toc} --- ## 3年生 + 劉備 + 張飛 + 関羽 + 諸葛 ## 4年生 + メッシ + クリスティアーノ・ロナウド + レヴァンドフスキ ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/members/members2022.html",
     "relUrl": "/pages/members/members2022.html"
   },"7": {
     "doc": "オンライン教材",
     "title": "オンライン教材",
-    "content": "# 教材紹介 {: .no_toc } オンライン教材紹介をしていきます。 {: .fs-6 .fw-300 } --- ## 倉田先生 ・GIS分析入門 [https://sophia-kurata-seminar.github.io/GISanalysis/](https://sophia-kurata-seminar.github.io/GISanalysis/) ## 松本 ・衛星データ学習サイトBASIC [https://tamak1313.github.io/cosmobook/](https://tamak1313.github.io/cosmobook/) ・GEE学習サイト [https://tamak1313.github.io/GEEflood/](https://tamak1313.github.io/GEEflood/) ## 蔵田 ・bookdownとGithubでWebサイト制作 [https://sh-2.github.io/Rstudio_bookdown/](https://sh-2.github.io/Rstudio_bookdown/) ・RでGIS分析 [https://sh-2.github.io/R_GIS/](https://sh-2.github.io/R_GIS/) ",
+    "content": "# 教材紹介 {: .no_toc } オンライン教材紹介をしていきます。 {: .fs-6 .fw-300 } --- ## 倉田先生 ・GIS分析入門 [https://sophia-kurata-seminar.github.io/GISanalysis/](https://sophia-kurata-seminar.github.io/GISanalysis/) ## 松本 ・衛星データ学習サイトBASIC [https://tamak1313.github.io/cosmobook/](https://tamak1313.github.io/cosmobook/) ・GEE学習サイト [https://tamak1313.github.io/GEEflood/](https://tamak1313.github.io/GEEflood/) ・Jekyllマニュアル ## 蔵田 ・bookdownとGitでWebサイト制作 [https://sh-2.github.io/Rstudio_bookdown/](https://sh-2.github.io/Rstudio_bookdown/) ・RでGIS分析 [https://sh-2.github.io/R_GIS/](https://sh-2.github.io/R_GIS/) ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/online_text.html",
     "relUrl": "/pages/online_text.html"
   },"8": {
