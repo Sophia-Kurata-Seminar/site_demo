@@ -7,7 +7,7 @@
   },"1": {
     "doc": "教員紹介",
     "title": "教員紹介",
-    "content": "# 教員紹介 {: .no_toc } 教員紹介をしていきます。 {: .fs-6 .fw-300 } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## 経歴 + ○○大学卒 + ××博士課程 ## 研究テーマ バングラディシュ ## 論文 + ○○の研究 + ××の関連 + △△の効果 ",
+    "content": "# 教員紹介 {: .no_toc } 教員紹介をしていきます。 {: .fs-6 .fw-300 } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## 経歴 + ○▼大学卒 + ××博士課程 ## 研究テーマ バングラディシュ ## 論文 + ○○の研究 + ××の関連 + △△の効果 ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/introduction.html",
     "relUrl": "/pages/introduction.html"
   },"2": {
