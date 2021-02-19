@@ -1,46 +1,52 @@
 {"0": {
+    "doc": "活動紹介",
+    "title": "活動紹介",
+    "content": "# 活動紹介 {: .no_toc } 活動を紹介していきます。 {: .fs-6 .fw-300 } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## カンボジア カンボジアに行った ## サイト作成 サイトを作った ",
+    "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/event.html",
+    "relUrl": "/pages/event.html"
+  },"1": {
     "doc": "ゼミの概要",
     "title": "ゼミの概要",
-    "content": "# 上智大学 経済学部経済学科 倉田ゼミ {: .fs-9 } 上智大学経済学部経済学科の倉田准教授のゼミです。 {: .fs-6 .fw-300 } [#jekyll~~ni 移動](#ゼミの概要){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHubリポジトリ](https://github.com/Sophia-Kurata-Seminar/site_demo){: .btn .fs-5 .mb-4 .mb-md-0 } --- ## ゼミの概要 倉田ゼミは、開発経済学と計量経済学のゼミです。 Rを使います。 ## 人数 人学年10人前後 ## 使ったソフト + QGIS + R / Rstudio + Exploratory ## あいうえお かきくけこ ## jekyllで作りました。 なれると便利です。 ",
+    "content": "# 上智大学 経済学部経済学科 倉田ゼミ {: .fs-9 } 上智大学経済学部経済学科の倉田准教授のゼミです。 {: .fs-6 .fw-300 } [「jekyll」に移動](#jekyll){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHubリポジトリ](https://github.com/Sophia-Kurata-Seminar/site_demo){: .btn .fs-5 .mb-4 .mb-md-0 } --- ## ゼミの概要 倉田ゼミは、開発経済学と計量経済学のゼミです。 Rを使います。 ## 人数 人学年10人前後 ## 使ったソフト + QGIS + R / Rstudio + Exploratory ## あいうえお かきくけこ ## jekyll なれると便利です。 ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/",
     "relUrl": "/"
-  },"1": {
+  },"2": {
     "doc": "教員紹介",
     "title": "教員紹介",
     "content": "# 教員紹介 {: .no_toc } 教員紹介をしていきます。 {: .fs-6 .fw-300 } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## 経歴 + ○▼大学卒 + ××博士課程 ## 研究テーマ バングラディシュ ## 論文 + ○○の研究 + ××の関連 + △△の効果 ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/introduction.html",
     "relUrl": "/pages/introduction.html"
-  },"2": {
+  },"3": {
     "doc": "ゼミ生紹介",
     "title": "ゼミ生紹介",
     "content": "# ゼミ生紹介 歴代のゼミ生を紹介します。 {: .fs-6 .fw-300 } ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/members/members.html",
     "relUrl": "/pages/members/members.html"
-  },"3": {
+  },"4": {
     "doc": "2020年度ゼミ生",
     "title": "2020年度ゼミ生",
     "content": "# ゼミ生紹介 {: .no_toc } ## 目次 {: .no_toc .text-delta } 1. TOC {:toc} --- ## 3年生 ## 4年生 全9人(男3人、女6人) ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/members/members2020.html",
     "relUrl": "/pages/members/members2020.html"
-  },"4": {
+  },"5": {
     "doc": "2021年度ゼミ生",
     "title": "2021年度ゼミ生",
     "content": "# ゼミ生紹介 {: .no_toc } ## 目次 {: .no_toc .text-delta } 1. TOC {:toc} --- ## 3年生 + メッシ + クリスティアーノ・ロナウド + レヴァンドフスキ ## 4年生 ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/members/members2021.html",
     "relUrl": "/pages/members/members2021.html"
-  },"5": {
+  },"6": {
     "doc": "2022年度ゼミ生",
     "title": "2022年度ゼミ生",
     "content": "# ゼミ生紹介 {: .no_toc } ## 目次 {: .no_toc .text-delta } 1. TOC {:toc} --- ## 3年生 + 劉備 + 張飛 + 関羽 + 諸葛 ## 4年生 + メッシ + クリスティアーノ・ロナウド + レヴァンドフスキ ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/members/members2022.html",
     "relUrl": "/pages/members/members2022.html"
-  },"6": {
+  },"7": {
     "doc": "オンライン教材",
     "title": "オンライン教材",
     "content": "# 教材紹介 {: .no_toc } オンライン教材紹介をしていきます。 {: .fs-6 .fw-300 } --- ## 倉田先生 ・GIS分析入門 [https://sophia-kurata-seminar.github.io/GISanalysis/](https://sophia-kurata-seminar.github.io/GISanalysis/) ## 松本 ・衛星データ学習サイトBASIC [https://tamak1313.github.io/cosmobook/](https://tamak1313.github.io/cosmobook/) ・GEE学習サイト [https://tamak1313.github.io/GEEflood/](https://tamak1313.github.io/GEEflood/) ・Jekyllマニュアル ## 蔵田 ・bookdownとGitでWebサイト制作 [https://sh-2.github.io/Rstudio_bookdown/](https://sh-2.github.io/Rstudio_bookdown/) ・RでGIS分析 [https://sh-2.github.io/R_GIS/](https://sh-2.github.io/R_GIS/) ",
     "url": "https://sophia-kurata-seminar.github.io/site_demo/pages/online_text.html",
     "relUrl": "/pages/online_text.html"
-  },"7": {
+  },"8": {
     "doc": "教材紹介",
     "title": "教材紹介",
     "content": "# 使用教材 {: .no_toc } 使用教材の紹介をしていきます。 {: .fs-6 .fw-300 } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## 統計 **サルでもわかる回帰分析** ## R **湘南台で学ぶRstudio** ## 論文の書き方 **論文のエッセンス** ",

@@ -26,7 +26,7 @@ baseurl: "/site_demo" # the subpath of your site, e.g. /blog
 url: "https://Sophia-Kurata-Seminar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
-#2. デフォルトから書き換え2
+#2. デフォルトから書き換え
 # Build settings
 theme: "just-the-docs"
 plugins:
@@ -63,6 +63,3 @@ aux_links:
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
 
-
-#作業用
-exclude: ["README.txt"]
