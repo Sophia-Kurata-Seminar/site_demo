@@ -12,8 +12,7 @@ permalink: /
 上智大学経済学部経済学科の倉田准教授のゼミです。
 {: .fs-6 .fw-300 }
 
-[#jekyll~~ni
-移動](#ゼミの概要){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHubリポジトリ](https://github.com/Sophia-Kurata-Seminar/site_demo){: .btn .fs-5 .mb-4 .mb-md-0 }
+[「あいうえお」に移動](#あいうえお){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHubリポジトリ](https://github.com/Sophia-Kurata-Seminar/site_demo){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -22,7 +21,7 @@ permalink: /
 Rを使います。
 
 ## 人数
-人学年10人前後
+1学年10人前後
 
 ## 使ったソフト
 + QGIS
@@ -32,6 +31,6 @@ Rを使います。
 ## あいうえお
 かきくけこ
 
-## jekyllで作りました。
+## jekyll
 なれると便利です。
 
