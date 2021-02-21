@@ -18,7 +18,6 @@ nav_order: 1
 
 ## 3年生
 
-
 ## 4年生
 
 ![4年男女比](/pages/members/ratio2020.png)
