@@ -14,8 +14,14 @@ nav_order: 2
 〒102-8554  
 東京都千代田区紀尾井町7-1 上智大学2号館1122室 
 
-Email: kurata[at]sophia.ac.jp
+Email: kurata[at]sophia.ac.jp  
 
+kakikukeko  
+
+![](../images/introduction-kurata01.jpg "バングラデシュ,  ノルシンディ県")  
+
+
+aiueo
 
 ---
 ## 研究業績
