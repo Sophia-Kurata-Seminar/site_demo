@@ -15,7 +15,7 @@ nav_order: 2
 東京都千代田区紀尾井町7-1 上智大学2号館1122室 
 
 Email: kurata[at]sophia.ac.jp
-{: .fs-6 .fw-300 }
+
 
 ---
 ## 研究業績
