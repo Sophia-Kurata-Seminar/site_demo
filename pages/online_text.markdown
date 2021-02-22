@@ -11,6 +11,11 @@ nav_order: 5
 オンライン教材紹介をしていきます。
 {: .fs-6 .fw-300 }
 
+## 目次
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 ---
 
 
