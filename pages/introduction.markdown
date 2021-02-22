@@ -16,12 +16,12 @@ nav_order: 2
 
 Email: kurata[at]sophia.ac.jp  
 
-kakikukeko  
-
-![](../images/introduction-kurata01.jpg "バングラデシュ,  ノルシンディ県")  
 
 
-aiueo
+![バングラデシュ,  ノルシンディ県](../images/introduction-kurata01.jpg)  
+
+
+
 
 ---
 ## 研究業績
