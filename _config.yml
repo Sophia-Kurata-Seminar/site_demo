@@ -58,7 +58,7 @@ plugins:
 #右上リンク
 # Aux links for the upper right navigation
 aux_links:
-  "大学教員紹介ページ":
+  "大学の個人ウェブサイト":
     - "https://rscdb.cc.sophia.ac.jp/Profiles/14/0001319/profile.html"
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false

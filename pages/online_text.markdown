@@ -15,26 +15,23 @@ nav_order: 5
 
 
 
+## GIS関連
 
-## 倉田先生
-
-・GIS分析入門  
-<https://sophia-kurata-seminar.github.io/GISanalysis/>  
-
-
-## 松本
-・衛星データ学習サイトBASIC  
+・衛星データ学習サイトBASIC（2019-2020年度 松本作成）  
 <https://tamak1313.github.io/cosmobook/>  
 
-・GEE学習サイト  
+・GEE学習サイト（2019-2020年度 松本作成）  
 <https://tamak1313.github.io/GEEflood/]>  
 
-・Jekyllマニュアル  
+・RでGIS分析（2019-2020年度 蔵田作成）  
+<https://sh-2.github.io/R_GIS/>  
+
+## jekyll関連
+・Jekyllマニュアル（2019-2020年度 松本・蔵田作成）  
 <https://github.com/Sophia-Kurata-Seminar/jekyll>  
 
-## 蔵田
-・bookdownとGithubでWebサイト制作  
+## R(bookdownパッケージ)
+・bookdownとGithubでWebサイト制作（2019-2020年度 蔵田作成）  
 <https://sh-2.github.io/Rstudio_bookdown/>  
 
-・RでGIS分析  
-<https://sh-2.github.io/R_GIS/>   
+ 
