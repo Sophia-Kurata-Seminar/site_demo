@@ -11,30 +11,32 @@ nav_order: 5
 オンライン教材紹介をしていきます。
 {: .fs-6 .fw-300 }
 
+## 目次
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 ---
 
 
 
+## GIS関連
 
-## 倉田先生
+・衛星データ学習サイトBASIC（2019-2020年度 松本作成）  
+<https://tamak1313.github.io/cosmobook/>  
 
-・GIS分析入門  
-[https://sophia-kurata-seminar.github.io/GISanalysis/](https://sophia-kurata-seminar.github.io/GISanalysis/)
+・GEE学習サイト（2019-2020年度 松本作成）  
+<https://tamak1313.github.io/GEEflood/]>  
 
-## 松本
-・衛星データ学習サイトBASIC  
-[https://tamak1313.github.io/cosmobook/](https://tamak1313.github.io/cosmobook/)  
+・RでGIS分析（2019-2020年度 蔵田作成）  
+<https://sh-2.github.io/R_GIS/>  
 
-・GEE学習サイト  
-[https://tamak1313.github.io/GEEflood/](https://tamak1313.github.io/GEEflood/)
+## jekyll関連
+・Jekyllマニュアル（2019-2020年度 松本・蔵田作成）  
+<https://github.com/Sophia-Kurata-Seminar/jekyll>  
 
+## R(bookdownパッケージ)
+・bookdownとGithubでWebサイト制作（2019-2020年度 蔵田作成）  
+<https://sh-2.github.io/Rstudio_bookdown/>  
 
-
-
-## 蔵田
-・bookdownとGitでWebサイト制作  
-[https://sh-2.github.io/Rstudio_bookdown/](https://sh-2.github.io/Rstudio_bookdown/)  
-
-
-・RでGIS分析  
-[https://sh-2.github.io/R_GIS/](https://sh-2.github.io/R_GIS/)  
+ 
