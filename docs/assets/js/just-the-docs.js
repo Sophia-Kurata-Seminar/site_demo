@@ -48,15 +48,6 @@ function initNav() {
       mainHeader.classList.remove('nav-open');
     }
   });
-  const searchInput = document.getElementById('search-input');
-  const searchButton = document.getElementById('search-button');
-
-  jtd.addEvent(searchButton, 'click', function(e){
-    e.preventDefault();
-
-    mainHeader.classList.add('nav-open');
-    searchInput.focus();
-  });
 }
 // Site search
 
@@ -68,7 +59,7 @@ function initSearch() {
     if (request.status >= 200 && request.status < 400) {
       var docs = JSON.parse(request.responseText);
       
-      lunr.tokenizer.separator = /[\s/]+/
+      lunr.tokenizer.separator = /[\s\-/]+/
 
       var index = lunr(function(){
         this.ref('id');
