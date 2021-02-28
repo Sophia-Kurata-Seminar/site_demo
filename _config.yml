@@ -65,3 +65,11 @@ aux_links_new_tab: false
 
 webmaster_verifications:
   google: 1234
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
+# Enable or disable the search button that appears in the bottom right corner of every page
+# Supports true or false (default)
+search.button: true
