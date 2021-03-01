@@ -18,7 +18,7 @@ Email: kurata[at]sophia.ac.jp
 
 
 
-![](../images/introduction-kurata01.jpg)  
+![](../assets/images/introduction-01.jpg)  
 バングラデシュ,  ノルシンディ県
 
 

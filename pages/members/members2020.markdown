@@ -37,7 +37,7 @@ nav_order: 1
 | 男性 | 3        | 0       | 0      | 3   |
 | 計   | 8        | 1       | 0      | 9   | 
 
-![4年男女比](../../images/member2020-ratio01.jpg)
+![4年男女比](../../assets/images/member2020-01.png)
 
 ### 卒論テーマ
 
